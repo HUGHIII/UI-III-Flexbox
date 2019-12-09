@@ -361,3 +361,51 @@ footer {
 	display:flex;
 	justify-content: center;
 }
+
+
+
+
+.firstRow {
+	display:flex;
+	/* width: 85%; */
+	
+	
+}
+
+.digUX {
+	border: 1px solid black;
+	padding: 5%;
+	margin:2% 8%;
+	background-color: rgb(219, 224, 224);
+}
+
+h6 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 3%;
+	margin:3% 75% 3% -1%;
+
+}
+
+.bottomSec {
+	display:flex;
+	border-top: 2px solid black;
+	
+}
+
+.bottomRow {
+	margin:3% 8%;
+}
+
+.bottomRow p {
+	padding-bottom: 3%;
+}
+
+ul {
+	padding:1%
+}
+
+li {
+	padding: 1%;
+}
